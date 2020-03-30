@@ -1,0 +1,1 @@
+built the first page of google after a search has been done. Feeling more confident with layout but my code is messy and have some bad practices too. Worked on this for a long time!

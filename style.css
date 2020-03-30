@@ -498,7 +498,7 @@
     flex-direction:column;
     width:20px;
     height:56px;
-    justfiy-content:center;
+    justify-content:center;
     align-items:center;
     color:#4285f4;
     cursor:pointer;
@@ -516,7 +516,7 @@
     flex-direction:column;
     width:82px;
     height:56px;
-    justfiy-content:flex-start;
+    justify-content:flex-start;
     color:#4285f4;
     cursor:pointer;
     font-size:14px;
